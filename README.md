@@ -32,6 +32,8 @@ I’m an experienced **Full Stack MERN Developer** with a strong background in *
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
 - **Node.js**, **Express.js**, **GraphQL**
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+- **Python**,
 #### **Databases**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
 - **MongoDB**, **MySQL**
